@@ -1,8 +1,6 @@
-[user]
-    email = 18319352083@163.com
-    name = 18319352083
 [sendemail]
     smtpserver = smtp.163.com
+    smtppass = xm4616
     smtpserverport = 465
     smtpuser = 18319352083@163.com
     smtpencryption = ssl
