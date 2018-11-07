@@ -3,7 +3,7 @@
     name = 18319352083
 [sendemail]
     smtpserver = smtp.163.com
-    smtpserverport = 587
+    smtpserverport = 465
     smtpuser = 18319352083@163.com
     smtpencryption = ssl
     confirm = auto
