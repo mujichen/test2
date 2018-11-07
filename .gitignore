@@ -1,0 +1,9 @@
+[user]
+    email = 18319352083@163.com
+    name = mujichen
+[sendemail]
+    smtpserver = smtp.163.com
+    smtpserverport = 587
+    smtpuser = 18319352083@163.com
+    smtpencryption = ssl
+    confirm = auto
